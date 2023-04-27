@@ -21,10 +21,11 @@ At the moment I’m working to improve the skills learned on the boot camp and a
 - NoSQL
 - PWA
 - Bootstrap
+- Angular
+- Bulma
 
 ### Future development:
 - AWS
-- Angular
 
 As I’m looking to collaborate on any project within my current experience level. 
 
