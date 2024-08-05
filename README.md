@@ -2,11 +2,11 @@
 
 
 ## About me
-My name is **Guillermo Mateo**. I’m a tech enthusiast and future web developer. My current career is in sales and retail. However I’m working to become a full stack developer, verse in many languages, libraries, and frameworks.
+My name is **Guillermo Mateo**. I’m a tech enthusiast and entry-level web developer. My current career is in sales and retail, but I’m working to become a full-stack developer, versed in many languages, libraries, and frameworks.
 
-I recently finished the **UCONN Coding Boot Camp**, this was my first experience with writing code. To achieve my goal I’m practicing the skills learn and building my portfolio to meet those expectations.
+I gained most of my developer skills at **UCONN Coding Boot Camp**, which was my first experience writing code. To achieve my goal, I’m practicing the skills I learned and building my portfolio to meet those expectations.
 
-At the moment I’m working to improve the skills learned on the boot camp and add additional experience on other languages, libraries and frameworks.
+At the moment, I’m working to improve the skills learned in the boot camp and gain additional experience with other languages, libraries, and frameworks.
 
 ### Current experience:
 - HTML
@@ -27,7 +27,7 @@ At the moment I’m working to improve the skills learned on the boot camp and a
 ### Future development:
 - AWS
 
-As I’m looking to collaborate on any project within my current experience level. 
+I’m looking to collaborate on any project within my current experience level. 
 
 ### How to reach me:
 - Email: [gamateo@gmail.com](mailto:gamateo@gmail.com)
